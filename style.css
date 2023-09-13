@@ -885,6 +885,7 @@ footer {
 
   .hero_text p {
     font-size: var(--fz-sm);
+    
   }
 
   .card-content-2 {
@@ -925,6 +926,7 @@ footer {
 
   #hero {
     padding-left: 10%;
+    padding-right: 10%;
   }
   #about {
     padding-left: 10%;
@@ -943,6 +945,7 @@ footer {
 
   #hero {
     padding-left: 10%;
+    padding-right: 10%;
   }
 
   .hero_text {
