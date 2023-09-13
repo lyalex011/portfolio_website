@@ -850,7 +850,7 @@ footer {
 
   .about_text p {
     color: var(--light-slate);
-    font-size: var(--fz-xs);
+    font-size: var(--fz-sm);
     width: 100%;
   }
 
