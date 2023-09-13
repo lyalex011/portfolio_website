@@ -833,6 +833,9 @@ footer {
 /* responsive design */
 
 @media (max-width: 992px) {
+  .blop {
+    display: none;
+  }
   #about {
     height: calc(100vh - 100px);
     background-color: var(--navy);
@@ -913,6 +916,9 @@ footer {
 }
 
 @media (max-width: 767px) {
+  .blop {
+    display: none;
+  }
   .menuback {
     width: 50%;
   }
