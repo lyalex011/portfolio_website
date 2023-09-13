@@ -1,12 +1,33 @@
 const menuToggle = document.getElementsByClassName('toggler');
 const hamburger = document.getElementsByClassName('hamburger');
-
-
+const about = document.getElementById('mob-about')
+const projects = document.getElementById('mob-projects')
+const contact = document.getElementById('mob-contacts')
 
 
 menuToggle[0].addEventListener('click', () => {
   document.body.classList.toggle('menu-open');
 });
+
+about.addEventListener('click', () => {
+  document.body.classList.toggle('menu-open');
+  
+    menuToggle[0].checked = false;
+});
+
+projects.addEventListener('click', () => {
+  document.body.classList.toggle('menu-open');
+  
+    menuToggle[0].checked = false;
+});
+
+contact.addEventListener('click', () => {
+  document.body.classList.toggle('menu-open');
+ 
+    menuToggle[0].checked = false;
+});
+
+
 
 
 const parentElement = document.getElementsByClassName('menu');

@@ -886,7 +886,7 @@ footer {
     border-radius: 50%;
     background:  var(--blue);
     animation: rotate 20s infinite;
-    opacity: 0.005;
+    opacity: 0.01;
     backdrop-filter: blur(12vmax);
     box-shadow: 0 0 50px 300px aquamarine;
   }
@@ -985,7 +985,7 @@ footer {
       }
     
       #hero { 
-        padding-top: 10%;
+        
         padding-left: 10%;
     }
 }
@@ -997,7 +997,7 @@ footer {
     }
 
     #hero { 
-        padding-top: 10%;
+        
         padding-left: 10%;
     }
     #about { 
@@ -1018,7 +1018,7 @@ footer {
     }
 
     #hero { 
-        padding-top: 10%;
+        
         padding-left: 10%;
     }
 
