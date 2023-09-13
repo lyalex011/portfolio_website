@@ -833,7 +833,7 @@ footer {
 /* responsive design */
 
 @media (max-width: 992px) {
-  .blop {
+  #blop {
     display: none;
   }
   #about {
@@ -916,7 +916,7 @@ footer {
 }
 
 @media (max-width: 767px) {
-  .blop {
+  #blop {
     display: none;
   }
   .menuback {
@@ -934,7 +934,7 @@ footer {
 }
 
 @media (max-width: 576px) {
-  .blop {
+  #blop {
     display: none;
   }
   .menuback {
