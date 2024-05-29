@@ -319,6 +319,9 @@ footer {
 
 .hero_btn {
   margin-top: 40px;
+  display: flex;
+  align-items: center;
+}
 }
 
 /* about me section */
