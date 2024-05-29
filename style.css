@@ -89,7 +89,6 @@ header {
   z-index: 1;
 }
 
-
 footer {
   position: relative;
   padding: 0 2rem;
@@ -319,8 +318,6 @@ footer {
 
 .hero_btn {
   margin-top: 40px;
-  display: flex;
-  align-items: center;
 }
 
 /* about me section */
@@ -352,7 +349,6 @@ footer {
 
 #resume-link {
   margin-left: 30px;
-  margin-top: 0px;
   font-size: var(--fz-sm);
 }
 
