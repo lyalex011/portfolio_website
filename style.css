@@ -89,6 +89,7 @@ header {
   z-index: 1;
 }
 
+
 footer {
   position: relative;
   padding: 0 2rem;
@@ -349,6 +350,7 @@ footer {
 
 #resume-link {
   margin-left: 30px;
+  margin-top: 0px;
   font-size: var(--fz-sm);
 }
 
